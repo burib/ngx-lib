@@ -6,6 +6,6 @@ import { FooterComponent } from './components/footer/footer.component';
   declarations: [NgxLibComponent, FooterComponent],
   imports: [
   ],
-  exports: [NgxLibComponent]
+  exports: [NgxLibComponent, FooterComponent]
 })
 export class NgxLibModule { }

@@ -105,7 +105,7 @@
     exports.NgxLibService = NgxLibService;
     exports.NgxLibComponent = NgxLibComponent;
     exports.NgxLibModule = NgxLibModule;
-    exports.ɵa = FooterComponent;
+    exports.FooterComponent = FooterComponent;
 
     Object.defineProperty(exports, '__esModule', { value: true });
 

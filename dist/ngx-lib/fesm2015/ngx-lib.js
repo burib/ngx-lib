@@ -87,6 +87,6 @@ NgxLibModule.decorators = [
  * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 
-export { NgxLibService, NgxLibComponent, NgxLibModule, FooterComponent as ɵa };
+export { NgxLibService, NgxLibComponent, NgxLibModule, FooterComponent };
 
 //# sourceMappingURL=ngx-lib.js.map
